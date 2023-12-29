@@ -1,10 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 import { FaFacebookF } from "react-icons/fa";
-import { FaInstagram } from "react-icons/fa";
-import { FaGithub } from "react-icons/fa";
-import { NavigationMenuDemo } from "./navlinks";
-
 export default function Footer() {
     return (
         <div>

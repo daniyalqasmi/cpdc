@@ -1,8 +1,3 @@
-import { Mail } from "lucide-react";
-import { Button } from "./ui/button";
-import { FaBasketShopping } from "react-icons/fa6"
-
-
 export default function Hero() {
     return (
         <div className="mb-[150px]">

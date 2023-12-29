@@ -1,9 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
-import { Button } from "./ui/button";
-import { ImHeart } from "react-icons/im"
-import { PiShoppingBagFill } from "react-icons/pi"
-
 
 export default function BestSellingcard(
     {
