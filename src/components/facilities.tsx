@@ -10,7 +10,7 @@ export default function Facilities() {
                 title: "computer lab",
             },
             {
-                src: "/assest/library--01.jpg",
+                src: "/assest/Library--01.jpg",
                 alt: "m2",
                 title: "library",
             },
